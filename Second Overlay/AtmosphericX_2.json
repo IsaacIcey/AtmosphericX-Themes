@@ -71,7 +71,7 @@
             "name": "[Template] Default Overlay"
         }
     ],
-    "name": "AtmosphericX Template 2",
+    "name": "AtmosphericX Template 2 2",
     "groups": [
         {
             "prev_ver": 520093699,
@@ -1224,7 +1224,7 @@
                         },
                         "pos_rel": {
                             "x": -1.3648149967193604,
-                            "y": 0.56851482391357422
+                            "y": 0.56851494312286377
                         },
                         "scale": {
                             "x": 0.37916666269302368,
@@ -1570,7 +1570,7 @@
             "versioned_id": "group",
             "settings": {
                 "custom_size": true,
-                "cx": 2096,
+                "cx": 2110,
                 "cy": 533,
                 "id_counter": 0,
                 "items": [
@@ -1595,11 +1595,11 @@
                         "id": 9,
                         "group_item_backup": false,
                         "pos": {
-                            "x": 457.00015258789062,
+                            "x": 471.000244140625,
                             "y": 81.0
                         },
                         "pos_rel": {
-                            "x": -0.93148118257522583,
+                            "x": -0.9055551290512085,
                             "y": -0.85000002384185791
                         },
                         "scale": {
@@ -1650,11 +1650,11 @@
                         "id": 10,
                         "group_item_backup": false,
                         "pos": {
-                            "x": 260.999755859375,
+                            "x": 274.999755859375,
                             "y": 78.99981689453125
                         },
                         "pos_rel": {
-                            "x": -1.2944449186325073,
+                            "x": -1.2685189247131348,
                             "y": -0.85370403528213501
                         },
                         "scale": {
@@ -1705,11 +1705,11 @@
                         "id": 15,
                         "group_item_backup": false,
                         "pos": {
-                            "x": 0.0,
+                            "x": 14.0,
                             "y": 0.0
                         },
                         "pos_rel": {
-                            "x": -1.7777777910232544,
+                            "x": -1.7518517971038818,
                             "y": -1.0
                         },
                         "scale": {
@@ -1760,11 +1760,11 @@
                         "id": 18,
                         "group_item_backup": false,
                         "pos": {
-                            "x": 461.99990844726562,
+                            "x": 476.0,
                             "y": 6.0
                         },
                         "pos_rel": {
-                            "x": -0.92222237586975098,
+                            "x": -0.89629632234573364,
                             "y": -0.98888885974884033
                         },
                         "scale": {
@@ -1815,11 +1815,11 @@
                         "id": 19,
                         "group_item_backup": false,
                         "pos": {
-                            "x": 456.0003662109375,
+                            "x": 470.00042724609375,
                             "y": 461.0
                         },
                         "pos_rel": {
-                            "x": -0.93333268165588379,
+                            "x": -0.90740662813186646,
                             "y": -0.14629632234573364
                         },
                         "scale": {
@@ -1870,11 +1870,11 @@
                         "id": 21,
                         "group_item_backup": false,
                         "pos": {
-                            "x": 685.9998779296875,
+                            "x": 700.0,
                             "y": 82.999969482421875
                         },
                         "pos_rel": {
-                            "x": -0.50740760564804077,
+                            "x": -0.48148155212402344,
                             "y": -0.84629637002944946
                         },
                         "scale": {
@@ -1925,11 +1925,11 @@
                         "id": 22,
                         "group_item_backup": false,
                         "pos": {
-                            "x": 1317.0,
+                            "x": 1331.0,
                             "y": 83.999847412109375
                         },
                         "pos_rel": {
-                            "x": 0.66111111640930176,
+                            "x": 0.68703716993331909,
                             "y": -0.84444475173950195
                         },
                         "scale": {
@@ -1939,6 +1939,61 @@
                         "scale_rel": {
                             "x": 0.97374999523162842,
                             "y": 0.98000001907348633
+                        },
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_rel": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    },
+                    {
+                        "name": "[OV1] Expires",
+                        "source_uuid": "556beb2d-5f79-4c89-9074-f82a93b6a12f",
+                        "visible": true,
+                        "locked": false,
+                        "rot": 0.0,
+                        "scale_ref": {
+                            "x": 1920.0,
+                            "y": 1080.0
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds_crop": false,
+                        "crop_left": 0,
+                        "crop_top": 0,
+                        "crop_right": 0,
+                        "crop_bottom": 0,
+                        "id": 17,
+                        "group_item_backup": false,
+                        "pos": {
+                            "x": 0.0,
+                            "y": 88.0
+                        },
+                        "pos_rel": {
+                            "x": -1.7777777910232544,
+                            "y": -0.83703702688217163
+                        },
+                        "scale": {
+                            "x": 1.09333336353302,
+                            "y": 1.1000000238418579
+                        },
+                        "scale_rel": {
+                            "x": 1.09333336353302,
+                            "y": 1.1000000238418579
                         },
                         "bounds": {
                             "x": 0.0,
@@ -1986,7 +2041,9 @@
                 "libobs.show_scene_item.21": [],
                 "libobs.hide_scene_item.21": [],
                 "libobs.show_scene_item.22": [],
-                "libobs.hide_scene_item.22": []
+                "libobs.hide_scene_item.22": [],
+                "libobs.show_scene_item.17": [],
+                "libobs.hide_scene_item.17": []
             },
             "deinterlace_mode": 0,
             "deinterlace_field_order": 0,
@@ -2094,68 +2151,6 @@
             "deinterlace_mode": 0,
             "deinterlace_field_order": 0,
             "monitoring_type": 0,
-            "private_settings": {}
-        },
-        {
-            "prev_ver": 520093699,
-            "name": "Window Capture",
-            "uuid": "6341accc-1384-478b-88dd-303c5f946016",
-            "id": "window_capture",
-            "versioned_id": "window_capture",
-            "settings": {
-                "window": "KILX - WeatherWise — Mozilla Firefox:MozillaWindowClass:firefox.exe"
-            },
-            "mixers": 255,
-            "sync": 0,
-            "flags": 0,
-            "volume": 1.0,
-            "balance": 0.5,
-            "enabled": true,
-            "muted": false,
-            "push-to-mute": false,
-            "push-to-mute-delay": 0,
-            "push-to-talk": false,
-            "push-to-talk-delay": 0,
-            "hotkeys": {
-                "libobs.mute": [],
-                "libobs.unmute": [],
-                "libobs.push-to-mute": [],
-                "libobs.push-to-talk": []
-            },
-            "deinterlace_mode": 0,
-            "deinterlace_field_order": 0,
-            "monitoring_type": 0,
-            "private_settings": {}
-        },
-        {
-            "prev_ver": 520093699,
-            "name": "[OV1] Alert Bar",
-            "uuid": "3b87c14a-a92f-4b47-9a90-ac10709999a5",
-            "id": "source-clone",
-            "versioned_id": "source-clone",
-            "settings": {
-                "clone": "[Source] Notification Alert Bar"
-            },
-            "mixers": 255,
-            "sync": 0,
-            "flags": 0,
-            "volume": 0.58226168155670166,
-            "balance": 0.5,
-            "enabled": true,
-            "muted": false,
-            "push-to-mute": false,
-            "push-to-mute-delay": 0,
-            "push-to-talk": false,
-            "push-to-talk-delay": 0,
-            "hotkeys": {
-                "libobs.mute": [],
-                "libobs.unmute": [],
-                "libobs.push-to-mute": [],
-                "libobs.push-to-talk": []
-            },
-            "deinterlace_mode": 0,
-            "deinterlace_field_order": 0,
-            "monitoring_type": 2,
             "private_settings": {}
         },
         {
@@ -4634,61 +4629,6 @@
                 "id_counter": 36,
                 "items": [
                     {
-                        "name": "Window Capture",
-                        "source_uuid": "6341accc-1384-478b-88dd-303c5f946016",
-                        "visible": true,
-                        "locked": false,
-                        "rot": 0.0,
-                        "scale_ref": {
-                            "x": 1920.0,
-                            "y": 1080.0
-                        },
-                        "align": 5,
-                        "bounds_type": 0,
-                        "bounds_align": 0,
-                        "bounds_crop": false,
-                        "crop_left": 0,
-                        "crop_top": 0,
-                        "crop_right": 0,
-                        "crop_bottom": 0,
-                        "id": 34,
-                        "group_item_backup": false,
-                        "pos": {
-                            "x": 0.0,
-                            "y": 30.0
-                        },
-                        "pos_rel": {
-                            "x": -1.7777777910232544,
-                            "y": -0.94444441795349121
-                        },
-                        "scale": {
-                            "x": 1.0171874761581421,
-                            "y": 1.0174418687820435
-                        },
-                        "scale_rel": {
-                            "x": 1.0171874761581421,
-                            "y": 1.0174418687820435
-                        },
-                        "bounds": {
-                            "x": 0.0,
-                            "y": 0.0
-                        },
-                        "bounds_rel": {
-                            "x": 0.0,
-                            "y": 0.0
-                        },
-                        "scale_filter": "disable",
-                        "blend_method": "default",
-                        "blend_type": "normal",
-                        "show_transition": {
-                            "duration": 0
-                        },
-                        "hide_transition": {
-                            "duration": 0
-                        },
-                        "private_settings": {}
-                    },
-                    {
                         "name": "[OV1] Light Block",
                         "source_uuid": "83705a13-7d7f-431a-86cc-d1472b4a1740",
                         "visible": true,
@@ -5127,63 +5067,8 @@
                             "duration": 0
                         },
                         "private_settings": {
-                            "collapsed": false
+                            "collapsed": true
                         }
-                    },
-                    {
-                        "name": "[OV1] Expires",
-                        "source_uuid": "556beb2d-5f79-4c89-9074-f82a93b6a12f",
-                        "visible": true,
-                        "locked": false,
-                        "rot": 0.0,
-                        "scale_ref": {
-                            "x": 1920.0,
-                            "y": 1080.0
-                        },
-                        "align": 5,
-                        "bounds_type": 0,
-                        "bounds_align": 0,
-                        "bounds_crop": false,
-                        "crop_left": 0,
-                        "crop_top": 0,
-                        "crop_right": 0,
-                        "crop_bottom": 0,
-                        "id": 17,
-                        "group_item_backup": false,
-                        "pos": {
-                            "x": -10.0,
-                            "y": 101.0
-                        },
-                        "pos_rel": {
-                            "x": -1.796296238899231,
-                            "y": -0.81296294927597046
-                        },
-                        "scale": {
-                            "x": 1.09333336353302,
-                            "y": 1.1000000238418579
-                        },
-                        "scale_rel": {
-                            "x": 1.09333336353302,
-                            "y": 1.1000000238418579
-                        },
-                        "bounds": {
-                            "x": 0.0,
-                            "y": 0.0
-                        },
-                        "bounds_rel": {
-                            "x": 0.0,
-                            "y": 0.0
-                        },
-                        "scale_filter": "disable",
-                        "blend_method": "default",
-                        "blend_type": "normal",
-                        "show_transition": {
-                            "duration": 0
-                        },
-                        "hide_transition": {
-                            "duration": 0
-                        },
-                        "private_settings": {}
                     },
                     {
                         "name": "[OV1] Time",
@@ -5206,11 +5091,11 @@
                         "id": 9,
                         "group_item_backup": true,
                         "pos": {
-                            "x": 461.00027465820312,
+                            "x": 461.00030517578125,
                             "y": 94.0
                         },
                         "pos_rel": {
-                            "x": -0.92407357692718506,
+                            "x": -0.92407351732254028,
                             "y": -0.82592594623565674
                         },
                         "scale": {
@@ -5261,11 +5146,11 @@
                         "id": 10,
                         "group_item_backup": true,
                         "pos": {
-                            "x": 264.9998779296875,
+                            "x": 264.99981689453125,
                             "y": 91.99981689453125
                         },
                         "pos_rel": {
-                            "x": -1.2870372533798218,
+                            "x": -1.2870373725891113,
                             "y": -0.82962995767593384
                         },
                         "scale": {
@@ -5316,11 +5201,11 @@
                         "id": 15,
                         "group_item_backup": true,
                         "pos": {
-                            "x": 4.0001220703125,
+                            "x": 4.00006103515625,
                             "y": 13.0
                         },
                         "pos_rel": {
-                            "x": -1.7703701257705688,
+                            "x": -1.7703702449798584,
                             "y": -0.97592592239379883
                         },
                         "scale": {
@@ -5371,11 +5256,11 @@
                         "id": 18,
                         "group_item_backup": true,
                         "pos": {
-                            "x": 466.00003051757812,
+                            "x": 466.00006103515625,
                             "y": 19.0
                         },
                         "pos_rel": {
-                            "x": -0.91481477022171021,
+                            "x": -0.91481471061706543,
                             "y": -0.96481484174728394
                         },
                         "scale": {
@@ -5481,11 +5366,11 @@
                         "id": 21,
                         "group_item_backup": true,
                         "pos": {
-                            "x": 690.0,
+                            "x": 690.00006103515625,
                             "y": 95.999969482421875
                         },
                         "pos_rel": {
-                            "x": -0.5,
+                            "x": -0.49999988079071045,
                             "y": -0.82222229242324829
                         },
                         "scale": {
@@ -5536,11 +5421,11 @@
                         "id": 22,
                         "group_item_backup": true,
                         "pos": {
-                            "x": 1321.0001220703125,
+                            "x": 1321.0,
                             "y": 96.999847412109375
                         },
                         "pos_rel": {
-                            "x": 0.66851872205734253,
+                            "x": 0.6685185432434082,
                             "y": -0.82037067413330078
                         },
                         "scale": {
@@ -5550,6 +5435,61 @@
                         "scale_rel": {
                             "x": 0.97374999523162842,
                             "y": 0.98000001907348633
+                        },
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_rel": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    },
+                    {
+                        "name": "[OV1] Expires",
+                        "source_uuid": "556beb2d-5f79-4c89-9074-f82a93b6a12f",
+                        "visible": true,
+                        "locked": false,
+                        "rot": 0.0,
+                        "scale_ref": {
+                            "x": 1920.0,
+                            "y": 1080.0
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds_crop": false,
+                        "crop_left": 0,
+                        "crop_top": 0,
+                        "crop_right": 0,
+                        "crop_bottom": 0,
+                        "id": 17,
+                        "group_item_backup": true,
+                        "pos": {
+                            "x": -9.99993896484375,
+                            "y": 101.0
+                        },
+                        "pos_rel": {
+                            "x": -1.796296238899231,
+                            "y": -0.81296294927597046
+                        },
+                        "scale": {
+                            "x": 1.09333336353302,
+                            "y": 1.1000000238418579
+                        },
+                        "scale_rel": {
+                            "x": 1.09333336353302,
+                            "y": 1.1000000238418579
                         },
                         "bounds": {
                             "x": 0.0,
@@ -5591,11 +5531,11 @@
                         "id": 20,
                         "group_item_backup": false,
                         "pos": {
-                            "x": 4.0001220703125,
+                            "x": -9.99993896484375,
                             "y": 13.0
                         },
                         "pos_rel": {
-                            "x": -1.7703701257705688,
+                            "x": -1.796296238899231,
                             "y": -0.97592592239379883
                         },
                         "scale": {
@@ -5624,63 +5564,8 @@
                             "duration": 0
                         },
                         "private_settings": {
-                            "collapsed": false
+                            "collapsed": true
                         }
-                    },
-                    {
-                        "name": "[OV1] Alert Bar",
-                        "source_uuid": "3b87c14a-a92f-4b47-9a90-ac10709999a5",
-                        "visible": false,
-                        "locked": false,
-                        "rot": 0.0,
-                        "scale_ref": {
-                            "x": 1920.0,
-                            "y": 1080.0
-                        },
-                        "align": 5,
-                        "bounds_type": 0,
-                        "bounds_align": 0,
-                        "bounds_crop": false,
-                        "crop_left": 0,
-                        "crop_top": 0,
-                        "crop_right": 0,
-                        "crop_bottom": 0,
-                        "id": 31,
-                        "group_item_backup": false,
-                        "pos": {
-                            "x": 946.0,
-                            "y": 757.0
-                        },
-                        "pos_rel": {
-                            "x": -0.025925925001502037,
-                            "y": 0.40185189247131348
-                        },
-                        "scale": {
-                            "x": 1.0,
-                            "y": 1.0
-                        },
-                        "scale_rel": {
-                            "x": 1.0,
-                            "y": 1.0
-                        },
-                        "bounds": {
-                            "x": 0.0,
-                            "y": 0.0
-                        },
-                        "bounds_rel": {
-                            "x": 0.0,
-                            "y": 0.0
-                        },
-                        "scale_filter": "disable",
-                        "blend_method": "default",
-                        "blend_type": "normal",
-                        "show_transition": {
-                            "duration": 0
-                        },
-                        "hide_transition": {
-                            "duration": 0
-                        },
-                        "private_settings": {}
                     },
                     {
                         "name": "[OV1] Alert Bar Old",
@@ -5703,20 +5588,20 @@
                         "id": 32,
                         "group_item_backup": false,
                         "pos": {
-                            "x": 48.0,
+                            "x": 26.0,
                             "y": -506.0
                         },
                         "pos_rel": {
-                            "x": -1.6888889074325562,
+                            "x": -1.7296296358108521,
                             "y": -1.9370369911193848
                         },
                         "scale": {
-                            "x": 1.0088541507720947,
-                            "y": 1.0092592239379883
+                            "x": 1.0203125476837158,
+                            "y": 1.0203703641891479
                         },
                         "scale_rel": {
-                            "x": 1.0088541507720947,
-                            "y": 1.0092592239379883
+                            "x": 1.0203125476837158,
+                            "y": 1.0203703641891479
                         },
                         "bounds": {
                             "x": 0.0,
@@ -5752,16 +5637,10 @@
             "push-to-talk-delay": 0,
             "hotkeys": {
                 "OBSBasic.SelectScene": [],
-                "libobs.show_scene_item.34": [],
-                "libobs.hide_scene_item.34": [],
                 "libobs.show_scene_item.8": [],
                 "libobs.hide_scene_item.8": [],
-                "libobs.show_scene_item.17": [],
-                "libobs.hide_scene_item.17": [],
                 "libobs.show_scene_item.20": [],
                 "libobs.hide_scene_item.20": [],
-                "libobs.show_scene_item.31": [],
-                "libobs.hide_scene_item.31": [],
                 "libobs.show_scene_item.32": [],
                 "libobs.hide_scene_item.32": []
             },
