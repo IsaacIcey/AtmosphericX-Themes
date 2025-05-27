@@ -1751,116 +1751,6 @@
                         "private_settings": {}
                     },
                     {
-                        "name": "Image 2",
-                        "source_uuid": "927df453-e4b1-4b5f-85cd-9de1ca7d4e50",
-                        "visible": true,
-                        "locked": false,
-                        "rot": 0.0,
-                        "scale_ref": {
-                            "x": 1920.0,
-                            "y": 1080.0
-                        },
-                        "align": 5,
-                        "bounds_type": 0,
-                        "bounds_align": 0,
-                        "bounds_crop": false,
-                        "crop_left": 0,
-                        "crop_top": 0,
-                        "crop_right": 0,
-                        "crop_bottom": 0,
-                        "id": 6,
-                        "group_item_backup": false,
-                        "pos": {
-                            "x": 15092.0,
-                            "y": 1859.9979248046875
-                        },
-                        "pos_rel": {
-                            "x": 26.170370101928711,
-                            "y": 2.4444406032562256
-                        },
-                        "scale": {
-                            "x": 0.27812498807907104,
-                            "y": 0.2800000011920929
-                        },
-                        "scale_rel": {
-                            "x": 0.27812498807907104,
-                            "y": 0.2800000011920929
-                        },
-                        "bounds": {
-                            "x": 0.0,
-                            "y": 0.0
-                        },
-                        "bounds_rel": {
-                            "x": 0.0,
-                            "y": 0.0
-                        },
-                        "scale_filter": "disable",
-                        "blend_method": "default",
-                        "blend_type": "normal",
-                        "show_transition": {
-                            "duration": 0
-                        },
-                        "hide_transition": {
-                            "duration": 0
-                        },
-                        "private_settings": {}
-                    },
-                    {
-                        "name": "Image 3",
-                        "source_uuid": "25723510-f22f-4aeb-b11b-00a6e27fa73a",
-                        "visible": true,
-                        "locked": false,
-                        "rot": 0.0,
-                        "scale_ref": {
-                            "x": 1920.0,
-                            "y": 1080.0
-                        },
-                        "align": 5,
-                        "bounds_type": 0,
-                        "bounds_align": 0,
-                        "bounds_crop": false,
-                        "crop_left": 0,
-                        "crop_top": 0,
-                        "crop_right": 0,
-                        "crop_bottom": 0,
-                        "id": 7,
-                        "group_item_backup": false,
-                        "pos": {
-                            "x": 14453.998046875,
-                            "y": 1863.9979248046875
-                        },
-                        "pos_rel": {
-                            "x": 24.988885879516602,
-                            "y": 2.451848030090332
-                        },
-                        "scale": {
-                            "x": 0.27239581942558289,
-                            "y": 0.27000001072883606
-                        },
-                        "scale_rel": {
-                            "x": 0.27239581942558289,
-                            "y": 0.27000001072883606
-                        },
-                        "bounds": {
-                            "x": 0.0,
-                            "y": 0.0
-                        },
-                        "bounds_rel": {
-                            "x": 0.0,
-                            "y": 0.0
-                        },
-                        "scale_filter": "disable",
-                        "blend_method": "default",
-                        "blend_type": "normal",
-                        "show_transition": {
-                            "duration": 0
-                        },
-                        "hide_transition": {
-                            "duration": 0
-                        },
-                        "private_settings": {}
-                    },
-                    {
                         "name": "Text (GDI+) 3",
                         "source_uuid": "47a0933f-dad8-4fb9-b7d2-91f741bc96bf",
                         "visible": true,
@@ -2075,65 +1965,6 @@
                         "blend_type": "normal",
                         "show_transition": {
                             "duration": 0
-                        },
-                        "hide_transition": {
-                            "duration": 0
-                        },
-                        "private_settings": {}
-                    },
-                    {
-                        "name": "Image",
-                        "source_uuid": "c1a7e34d-64b8-4ffb-93d4-2a3ff89bffda",
-                        "visible": true,
-                        "locked": false,
-                        "rot": 0.0,
-                        "scale_ref": {
-                            "x": 1920.0,
-                            "y": 1080.0
-                        },
-                        "align": 5,
-                        "bounds_type": 0,
-                        "bounds_align": 0,
-                        "bounds_crop": false,
-                        "crop_left": 0,
-                        "crop_top": 0,
-                        "crop_right": 0,
-                        "crop_bottom": 0,
-                        "id": 42,
-                        "group_item_backup": false,
-                        "pos": {
-                            "x": 183.0,
-                            "y": 117.00003051757812
-                        },
-                        "pos_rel": {
-                            "x": -1.4388889074325562,
-                            "y": -0.78333330154418945
-                        },
-                        "scale": {
-                            "x": 0.25416666269302368,
-                            "y": 0.25499999523162842
-                        },
-                        "scale_rel": {
-                            "x": 0.25416666269302368,
-                            "y": 0.25499999523162842
-                        },
-                        "bounds": {
-                            "x": 0.0,
-                            "y": 0.0
-                        },
-                        "bounds_rel": {
-                            "x": 0.0,
-                            "y": 0.0
-                        },
-                        "scale_filter": "disable",
-                        "blend_method": "default",
-                        "blend_type": "normal",
-                        "show_transition": {
-                            "id": "fade_transition",
-                            "versioned_id": "fade_transition",
-                            "name": "Image Show Transition",
-                            "transition": {},
-                            "duration": 500
                         },
                         "hide_transition": {
                             "duration": 0
@@ -2706,8 +2537,6 @@
             "hotkeys": {
                 "libobs.show_scene_item.35": [],
                 "libobs.hide_scene_item.35": [],
-                "libobs.show_scene_item.42": [],
-                "libobs.hide_scene_item.42": [],
                 "libobs.show_scene_item.9": [],
                 "libobs.hide_scene_item.9": [],
                 "libobs.show_scene_item.10": [],
@@ -2741,66 +2570,11 @@
             "id": "group",
             "versioned_id": "group",
             "settings": {
-                "id_counter": 0,
                 "custom_size": true,
                 "cx": 2101,
                 "cy": 922,
+                "id_counter": 0,
                 "items": [
-                    {
-                        "name": "Window Capture",
-                        "source_uuid": "34266bea-e4c5-448a-a317-ad5a7671f3db",
-                        "visible": true,
-                        "locked": false,
-                        "rot": 0.0,
-                        "scale_ref": {
-                            "x": 1920.0,
-                            "y": 1080.0
-                        },
-                        "align": 5,
-                        "bounds_type": 0,
-                        "bounds_align": 0,
-                        "bounds_crop": false,
-                        "crop_left": 0,
-                        "crop_top": 0,
-                        "crop_right": 0,
-                        "crop_bottom": 0,
-                        "id": 1,
-                        "group_item_backup": false,
-                        "pos": {
-                            "x": 385.99981689453125,
-                            "y": 0.0
-                        },
-                        "pos_rel": {
-                            "x": -1.0629632472991943,
-                            "y": -1.0
-                        },
-                        "scale": {
-                            "x": 0.89322918653488159,
-                            "y": 0.89341086149215698
-                        },
-                        "scale_rel": {
-                            "x": 0.89322918653488159,
-                            "y": 0.89341086149215698
-                        },
-                        "bounds": {
-                            "x": 0.0,
-                            "y": 0.0
-                        },
-                        "bounds_rel": {
-                            "x": 0.0,
-                            "y": 0.0
-                        },
-                        "scale_filter": "disable",
-                        "blend_method": "default",
-                        "blend_type": "normal",
-                        "show_transition": {
-                            "duration": 0
-                        },
-                        "hide_transition": {
-                            "duration": 0
-                        },
-                        "private_settings": {}
-                    },
                     {
                         "name": "Window Capture 3",
                         "source_uuid": "8704bd7b-4d10-4373-b769-d5d1dd438e6c",
@@ -2870,8 +2644,6 @@
             "push-to-talk": false,
             "push-to-talk-delay": 0,
             "hotkeys": {
-                "libobs.show_scene_item.1": [],
-                "libobs.hide_scene_item.1": [],
                 "libobs.show_scene_item.2": [],
                 "libobs.hide_scene_item.2": []
             },
@@ -3018,84 +2790,6 @@
         },
         {
             "prev_ver": 520093699,
-            "name": "Image",
-            "uuid": "c1a7e34d-64b8-4ffb-93d4-2a3ff89bffda",
-            "id": "image_source",
-            "versioned_id": "image_source",
-            "settings": {
-                "file": "C:/Users/isaac/Downloads/Weather Wise (3).png"
-            },
-            "mixers": 0,
-            "sync": 0,
-            "flags": 0,
-            "volume": 1.0,
-            "balance": 0.5,
-            "enabled": true,
-            "muted": false,
-            "push-to-mute": false,
-            "push-to-mute-delay": 0,
-            "push-to-talk": false,
-            "push-to-talk-delay": 0,
-            "hotkeys": {},
-            "deinterlace_mode": 0,
-            "deinterlace_field_order": 0,
-            "monitoring_type": 0,
-            "private_settings": {}
-        },
-        {
-            "prev_ver": 520093699,
-            "name": "Image 2",
-            "uuid": "927df453-e4b1-4b5f-85cd-9de1ca7d4e50",
-            "id": "image_source",
-            "versioned_id": "image_source",
-            "settings": {
-                "file": "C:/Users/isaac/Downloads/Light Rain.png"
-            },
-            "mixers": 0,
-            "sync": 0,
-            "flags": 0,
-            "volume": 1.0,
-            "balance": 0.5,
-            "enabled": true,
-            "muted": false,
-            "push-to-mute": false,
-            "push-to-mute-delay": 0,
-            "push-to-talk": false,
-            "push-to-talk-delay": 0,
-            "hotkeys": {},
-            "deinterlace_mode": 0,
-            "deinterlace_field_order": 0,
-            "monitoring_type": 0,
-            "private_settings": {}
-        },
-        {
-            "prev_ver": 520093699,
-            "name": "Image 3",
-            "uuid": "25723510-f22f-4aeb-b11b-00a6e27fa73a",
-            "id": "image_source",
-            "versioned_id": "image_source",
-            "settings": {
-                "file": "C:/Users/isaac/Downloads/Light Rain (1).png"
-            },
-            "mixers": 0,
-            "sync": 0,
-            "flags": 0,
-            "volume": 1.0,
-            "balance": 0.5,
-            "enabled": true,
-            "muted": false,
-            "push-to-mute": false,
-            "push-to-mute-delay": 0,
-            "push-to-talk": false,
-            "push-to-talk-delay": 0,
-            "hotkeys": {},
-            "deinterlace_mode": 0,
-            "deinterlace_field_order": 0,
-            "monitoring_type": 0,
-            "private_settings": {}
-        },
-        {
-            "prev_ver": 520093699,
             "name": "Image 4",
             "uuid": "ef2f3bc3-ee0e-4e62-87f0-55add347ed87",
             "id": "image_source",
@@ -3130,9 +2824,9 @@
                 "text": "          Breaking News: There is a enached risk of svr weather in the west tonight with a chance of a few tornadoes. ",
                 "font": {
                     "face": "Arial",
-                    "style": "Bold",
+                    "flags": 1,
                     "size": 256,
-                    "flags": 1
+                    "style": "Bold"
                 },
                 "opacity": 100,
                 "bk_opacity": 74
@@ -3161,7 +2855,7 @@
                     "id": "scroll_filter",
                     "versioned_id": "scroll_filter",
                     "settings": {
-                        "speed_x": 500.0
+                        "speed_x": 500
                     },
                     "mixers": 0,
                     "sync": 0,
@@ -3192,9 +2886,9 @@
                 "text": "Velocity",
                 "font": {
                     "face": "Arial",
-                    "style": "Bold",
+                    "flags": 1,
                     "size": 256,
-                    "flags": 1
+                    "style": "Bold"
                 }
             },
             "mixers": 0,
@@ -3224,9 +2918,9 @@
                 "text": "Reflectivity",
                 "font": {
                     "face": "Arial",
-                    "style": "Bold",
+                    "flags": 1,
                     "size": 256,
-                    "flags": 1
+                    "style": "Bold"
                 }
             },
             "mixers": 0,
@@ -3241,37 +2935,6 @@
             "push-to-talk": false,
             "push-to-talk-delay": 0,
             "hotkeys": {},
-            "deinterlace_mode": 0,
-            "deinterlace_field_order": 0,
-            "monitoring_type": 0,
-            "private_settings": {}
-        },
-        {
-            "prev_ver": 520093699,
-            "name": "Window Capture",
-            "uuid": "34266bea-e4c5-448a-a317-ad5a7671f3db",
-            "id": "window_capture",
-            "versioned_id": "window_capture",
-            "settings": {
-                "window": "KJGX - WeatherWise — Mozilla Firefox:MozillaWindowClass:firefox.exe"
-            },
-            "mixers": 255,
-            "sync": 0,
-            "flags": 0,
-            "volume": 1.0,
-            "balance": 0.5,
-            "enabled": true,
-            "muted": false,
-            "push-to-mute": false,
-            "push-to-mute-delay": 0,
-            "push-to-talk": false,
-            "push-to-talk-delay": 0,
-            "hotkeys": {
-                "libobs.mute": [],
-                "libobs.unmute": [],
-                "libobs.push-to-mute": [],
-                "libobs.push-to-talk": []
-            },
             "deinterlace_mode": 0,
             "deinterlace_field_order": 0,
             "monitoring_type": 0,
@@ -5782,64 +5445,9 @@
             "id": "scene",
             "versioned_id": "scene",
             "settings": {
-                "id_counter": 16,
                 "custom_size": false,
+                "id_counter": 18,
                 "items": [
-                    {
-                        "name": "Window Capture",
-                        "source_uuid": "34266bea-e4c5-448a-a317-ad5a7671f3db",
-                        "visible": true,
-                        "locked": false,
-                        "rot": 0.0,
-                        "scale_ref": {
-                            "x": 1920.0,
-                            "y": 1080.0
-                        },
-                        "align": 5,
-                        "bounds_type": 0,
-                        "bounds_align": 0,
-                        "bounds_crop": false,
-                        "crop_left": 0,
-                        "crop_top": 0,
-                        "crop_right": 0,
-                        "crop_bottom": 0,
-                        "id": 1,
-                        "group_item_backup": true,
-                        "pos": {
-                            "x": 230.99981689453125,
-                            "y": 44.0013427734375
-                        },
-                        "pos_rel": {
-                            "x": -1.3500003814697266,
-                            "y": -0.91851603984832764
-                        },
-                        "scale": {
-                            "x": 0.89322918653488159,
-                            "y": 0.89341086149215698
-                        },
-                        "scale_rel": {
-                            "x": 0.89322918653488159,
-                            "y": 0.89341086149215698
-                        },
-                        "bounds": {
-                            "x": 0.0,
-                            "y": 0.0
-                        },
-                        "bounds_rel": {
-                            "x": 0.0,
-                            "y": 0.0
-                        },
-                        "scale_filter": "disable",
-                        "blend_method": "default",
-                        "blend_type": "normal",
-                        "show_transition": {
-                            "duration": 0
-                        },
-                        "hide_transition": {
-                            "duration": 0
-                        },
-                        "private_settings": {}
-                    },
                     {
                         "name": "Window Capture 3",
                         "source_uuid": "8704bd7b-4d10-4373-b769-d5d1dd438e6c",
@@ -6558,116 +6166,6 @@
                         "private_settings": {}
                     },
                     {
-                        "name": "Image 2",
-                        "source_uuid": "927df453-e4b1-4b5f-85cd-9de1ca7d4e50",
-                        "visible": true,
-                        "locked": false,
-                        "rot": 0.0,
-                        "scale_ref": {
-                            "x": 1920.0,
-                            "y": 1080.0
-                        },
-                        "align": 5,
-                        "bounds_type": 0,
-                        "bounds_align": 0,
-                        "bounds_crop": false,
-                        "crop_left": 0,
-                        "crop_top": 0,
-                        "crop_right": 0,
-                        "crop_bottom": 0,
-                        "id": 6,
-                        "group_item_backup": true,
-                        "pos": {
-                            "x": 1243.9990234375,
-                            "y": 50.9935302734375
-                        },
-                        "pos_rel": {
-                            "x": 0.52592414617538452,
-                            "y": -0.90556752681732178
-                        },
-                        "scale": {
-                            "x": 0.27812498807907104,
-                            "y": 0.2800000011920929
-                        },
-                        "scale_rel": {
-                            "x": 0.27812498807907104,
-                            "y": 0.2800000011920929
-                        },
-                        "bounds": {
-                            "x": 0.0,
-                            "y": 0.0
-                        },
-                        "bounds_rel": {
-                            "x": 0.0,
-                            "y": 0.0
-                        },
-                        "scale_filter": "disable",
-                        "blend_method": "default",
-                        "blend_type": "normal",
-                        "show_transition": {
-                            "duration": 0
-                        },
-                        "hide_transition": {
-                            "duration": 0
-                        },
-                        "private_settings": {}
-                    },
-                    {
-                        "name": "Image 3",
-                        "source_uuid": "25723510-f22f-4aeb-b11b-00a6e27fa73a",
-                        "visible": true,
-                        "locked": false,
-                        "rot": 0.0,
-                        "scale_ref": {
-                            "x": 1920.0,
-                            "y": 1080.0
-                        },
-                        "align": 5,
-                        "bounds_type": 0,
-                        "bounds_align": 0,
-                        "bounds_crop": false,
-                        "crop_left": 0,
-                        "crop_top": 0,
-                        "crop_right": 0,
-                        "crop_bottom": 0,
-                        "id": 7,
-                        "group_item_backup": true,
-                        "pos": {
-                            "x": 605.9970703125,
-                            "y": 54.993560791015625
-                        },
-                        "pos_rel": {
-                            "x": -0.65556097030639648,
-                            "y": -0.89816009998321533
-                        },
-                        "scale": {
-                            "x": 0.27239581942558289,
-                            "y": 0.27000001072883606
-                        },
-                        "scale_rel": {
-                            "x": 0.27239581942558289,
-                            "y": 0.27000001072883606
-                        },
-                        "bounds": {
-                            "x": 0.0,
-                            "y": 0.0
-                        },
-                        "bounds_rel": {
-                            "x": 0.0,
-                            "y": 0.0
-                        },
-                        "scale_filter": "disable",
-                        "blend_method": "default",
-                        "blend_type": "normal",
-                        "show_transition": {
-                            "duration": 0
-                        },
-                        "hide_transition": {
-                            "duration": 0
-                        },
-                        "private_settings": {}
-                    },
-                    {
                         "name": "Text (GDI+) 3",
                         "source_uuid": "47a0933f-dad8-4fb9-b7d2-91f741bc96bf",
                         "visible": true,
@@ -6831,7 +6329,7 @@
                             "duration": 0
                         },
                         "private_settings": {
-                            "collapsed": false
+                            "collapsed": true
                         }
                     },
                     {
@@ -6883,65 +6381,6 @@
                         "blend_type": "normal",
                         "show_transition": {
                             "duration": 0
-                        },
-                        "hide_transition": {
-                            "duration": 0
-                        },
-                        "private_settings": {}
-                    },
-                    {
-                        "name": "Image",
-                        "source_uuid": "c1a7e34d-64b8-4ffb-93d4-2a3ff89bffda",
-                        "visible": true,
-                        "locked": false,
-                        "rot": 0.0,
-                        "scale_ref": {
-                            "x": 1920.0,
-                            "y": 1080.0
-                        },
-                        "align": 5,
-                        "bounds_type": 0,
-                        "bounds_align": 0,
-                        "bounds_crop": false,
-                        "crop_left": 0,
-                        "crop_top": 0,
-                        "crop_right": 0,
-                        "crop_bottom": 0,
-                        "id": 42,
-                        "group_item_backup": true,
-                        "pos": {
-                            "x": -3.0001220703125,
-                            "y": 117.00003051757812
-                        },
-                        "pos_rel": {
-                            "x": -1.7833335399627686,
-                            "y": -0.78333330154418945
-                        },
-                        "scale": {
-                            "x": 0.25416666269302368,
-                            "y": 0.25499999523162842
-                        },
-                        "scale_rel": {
-                            "x": 0.25416666269302368,
-                            "y": 0.25499999523162842
-                        },
-                        "bounds": {
-                            "x": 0.0,
-                            "y": 0.0
-                        },
-                        "bounds_rel": {
-                            "x": 0.0,
-                            "y": 0.0
-                        },
-                        "scale_filter": "disable",
-                        "blend_method": "default",
-                        "blend_type": "normal",
-                        "show_transition": {
-                            "id": "fade_transition",
-                            "versioned_id": "fade_transition",
-                            "name": "Image Show Transition",
-                            "transition": {},
-                            "duration": 500
                         },
                         "hide_transition": {
                             "duration": 0
